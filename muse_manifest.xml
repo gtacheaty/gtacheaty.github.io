@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vintageboy.gq" resolutions="1x" timestamp="1612802901816">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vintageboy.gq" resolutions="1x" timestamp="1612803061065">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4279888254" ref="index"/>
-    <file name="nomq_index.css" crc="528780379" ref="index"/>
+    <file name="index.css" crc="348603210" ref="index"/>
+    <file name="nomq_index.css" crc="163252461" ref="index"/>
     <file name="test.css" crc="4193191577" ref="test"/>
     <file name="home.css" crc="170651570" ref="home"/>
   </folder>
@@ -111,7 +111,7 @@
     <file name="4135.gif" crc="4277144600" seo="true" ref="home"/>
     <file name="1822.gif" crc="105719982" seo="true" ref="home"/>
   </folder>
-  <file name="index.html" crc="410464032" seo="true" mt="1612802898403" redirect="true"/>
+  <file name="index.html" crc="20182153" seo="true" mt="1612803056491" redirect="true"/>
   <file name="home.html" crc="3922166977" seo="true" mt="1612305665591" redirect="true"/>
   <file name="test.html" crc="3851136972" seo="true" mt="1612305427296" redirect="false"/>
 </manifest>
