@@ -1,19 +1,20 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vintageboy.gq" resolutions="1x" timestamp="1617639645470">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vintageboy.gq" resolutions="1x" timestamp="1617641244476">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="untitled-3.css" crc="4193191577" ref="untitled-3"/>
+    <file name="untitled-3.css" crc="519404024" ref="untitled-3"/>
     <file name="index.css" crc="389859274" ref="index"/>
     <file name="nomq_index.css" crc="163252461" ref="index"/>
     <file name="vi.css" crc="4054639441" ref="vi"/>
+    <file name="ujuj.css" crc="4070398307" ref="ujuj"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:vi:untitled-3"/>
-    <file name="museutils.js" crc="163421577" ref="index:vi:untitled-3"/>
-    <file name="whatinput.js" crc="86476730" ref="index:vi:untitled-3"/>
-    <file name="museconfig.js" crc="168988563" ref="index:vi:untitled-3"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:vi:untitled-3"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:vi:untitled-3:ujuj"/>
+    <file name="museutils.js" crc="163421577" ref="index:vi:untitled-3:ujuj"/>
+    <file name="whatinput.js" crc="86476730" ref="index:vi:untitled-3:ujuj"/>
+    <file name="museconfig.js" crc="168988563" ref="index:vi:untitled-3:ujuj"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:vi:untitled-3:ujuj"/>
     <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index:vi:untitled-3"/>
+    <file name="require.js" crc="244322403" ref="index:vi:untitled-3:ujuj"/>
   </folder>
   <folder name="images">
     <file name="u94-4.png" crc="173792030" ref="index"/>
@@ -97,8 +98,10 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="snímka obrazovky 2021-04-05 134829.jpg" crc="495138130" seo="true" ref="vi"/>
     <file name="u1422-4.png" crc="3886482737" ref="vi"/>
+    <file name="u1492-12.png" crc="77196516" ref="ujuj"/>
   </folder>
-  <file name="index.html" crc="4114402601" seo="true" mt="1617639022724" redirect="true"/>
+  <file name="index.html" crc="4114402601" seo="true" mt="1617640651933" redirect="true"/>
   <file name="vi.html" crc="4221865752" seo="true" mt="1617639632447" redirect="true"/>
-  <file name="untitled-3.html" crc="307056777" seo="true" mt="1617638667701" redirect="false"/>
+  <file name="untitled-3.html" crc="4246380829" seo="true" mt="1617640621810" redirect="true"/>
+  <file name="ujuj.html" crc="4194843030" seo="true" mt="1617641237533" redirect="true"/>
 </manifest>
