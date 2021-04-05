@@ -1,21 +1,23 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="GTAVI.lol" resolutions="1x" timestamp="1617625425249">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vintageboy.gq" resolutions="1x" timestamp="1612803061065">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4174394837" ref="index"/>
+    <file name="index.css" crc="348603210" ref="index"/>
     <file name="nomq_index.css" crc="163252461" ref="index"/>
-    <file name="vi.css" crc="124843109" ref="vi"/>
+    <file name="test.css" crc="4193191577" ref="test"/>
+    <file name="home.css" crc="170651570" ref="home"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:index:vi"/>
-    <file name="museutils.js" crc="163421577" ref="tablet>index:index:vi"/>
-    <file name="whatinput.js" crc="86476730" ref="tablet>index:index:vi"/>
-    <file name="museconfig.js" crc="36584860" ref="tablet>index:index:vi"/>
-    <file name="jquery.watch.js" crc="104486786" ref="tablet>index:index:vi"/>
-    <file name="require.js" crc="244322403" ref="tablet>index:index:vi"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:test"/>
+    <file name="museutils.js" crc="163421577" ref="index:home:test"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home:test"/>
+    <file name="museconfig.js" crc="36584860" ref="index:home:test"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:home:test"/>
     <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:home:test"/>
   </folder>
   <folder name="images">
     <file name="u94-4.png" crc="173792030" ref="index"/>
+    <file name="143779706_342001773592203_5065852320087625971_n.jpg" crc="439964392" seo="true" ref="index"/>
     <file name="u102-4.png" crc="4191760151" ref="index"/>
     <file name="145874599_2954412771509672_972660833885462706_n.jpg" crc="54587603" seo="true" ref="index"/>
     <file name="147051040_2891943811127596_1188130805259238147_n.jpg" crc="21027385" seo="true" ref="index"/>
@@ -51,9 +53,8 @@
     <file name="145221509_766016110704022_5547290246209254367_n.jpg" crc="526665933" seo="true" ref="index"/>
     <file name="91805897_1452403894970249_2018659947952209920_n.jpg" crc="76533817" seo="true" ref="index"/>
     <file name="144099565_3580735148709995_2916226288632956404_n.jpg" crc="4007488482" seo="true" ref="index"/>
-    <file name="sallute.jpg" crc="3837272270" seo="true" ref="index"/>
     <file name="131320081_214590413579559_1932427639045330656_n.jpg" crc="4262810031" seo="true" ref="index"/>
-    <file name="143779706_342001773592203_5065852320087625971_n.jpg" crc="439964392" seo="true" ref="index"/>
+    <file name="sallute.jpg" crc="3837272270" seo="true" ref="index"/>
     <file name="u94-42.png" crc="4152699587" ref="index"/>
     <file name="u102-42.png" crc="313953587" ref="index"/>
     <file name="145874599_2954412771509672_972660833885462706_n281x281.jpg" crc="314719150" seo="true" ref="index"/>
@@ -91,18 +92,26 @@
     <file name="144828131_2009144672559329_4813604425634181640_n249x332.jpg" crc="338438899" seo="true" ref="index"/>
     <file name="143779706_342001773592203_5065852320087625971_n260x363.jpg" crc="3995196730" seo="true" ref="index"/>
     <file name="144099565_3580735148709995_2916226288632956404_n247x247.jpg" crc="369411357" seo="true" ref="index"/>
-    <file name="sallute212x212.jpg" crc="22791060" seo="true" ref="index"/>
     <file name="131320081_214590413579559_1932427639045330656_n298x199.jpg" crc="171647199" seo="true" ref="index"/>
+    <file name="sallute212x212.jpg" crc="22791060" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="snímka obrazovky 2021-04-05 134829.jpg" crc="495138130" seo="true" ref="vi"/>
+    <file name="snímka obrazovky 2021-02-02 230126.jpg" crc="4178971458" seo="true" ref="home"/>
+    <file name="u548-4.png" crc="98906919" ref="home"/>
+    <file name="2.gif" crc="3790357766" seo="true" ref="home"/>
+    <file name="13709.gif" crc="195120604" seo="true" ref="home"/>
+    <file name="11996.gif" crc="3966765453" seo="true" ref="home"/>
+    <file name="11891.gif" crc="445629457" seo="true" ref="home"/>
+    <file name="3.gif" crc="140774710" seo="true" ref="home"/>
+    <file name="4.gif" crc="4102566049" seo="true" ref="home"/>
+    <file name="5.gif" crc="323339756" seo="true" ref="home"/>
+    <file name="2515.gif" crc="315853711" seo="true" ref="home"/>
+    <file name="1451.jpg" crc="318497184" seo="true" ref="home"/>
+    <file name="13710.gif" crc="505312333" seo="true" ref="home"/>
+    <file name="15230.gif" crc="3846379027" seo="true" ref="home"/>
+    <file name="4135.gif" crc="4277144600" seo="true" ref="home"/>
+    <file name="1822.gif" crc="105719982" seo="true" ref="home"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="index.css" crc="4021538510" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="3791840893" seo="true" mt="1617623075374" redirect="false"/>
-  </folder>
-  <file name="index.html" crc="186363244" seo="true" mt="1617625093067" redirect="true"/>
-  <file name="vi.html" crc="400485125" seo="true" mt="1617625347151" redirect="true"/>
+  <file name="index.html" crc="20182153" seo="true" mt="1612803056491" redirect="true"/>
+  <file name="home.html" crc="3922166977" seo="true" mt="1612305665591" redirect="true"/>
+  <file name="test.html" crc="3851136972" seo="true" mt="1612305427296" redirect="false"/>
 </manifest>
