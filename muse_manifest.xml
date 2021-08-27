@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="FC6Countdown.ml" resolutions="1x" timestamp="1630072746614">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="FC6Countdown.ml" resolutions="1x" timestamp="1630075971827">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4001872274" ref="index"/>
+    <file name="index.css" crc="20327296" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,6 +14,7 @@
   <folder name="images">
     <file name="tetra-preorder-standard-edition-epic-image-hero-carrousel-3840x2160-3840x2160-430977812.jpg" crc="16111249" seo="true" ref="index"/>
     <file name="f65759219b7b97a4c8bdd3803eff941b.png" crc="344992831" seo="true" ref="index"/>
+    <file name="714e6050bfd839df4ec7fcdf5db55302.png" crc="4047363939" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3834472726" seo="true" mt="1630060018137" redirect="true"/>
+  <file name="index.html" crc="353037990" seo="true" mt="1630075803809" redirect="true"/>
 </manifest>
