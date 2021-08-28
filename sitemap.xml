@@ -14,19 +14,13 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://FC6Countdown.ml/images/fc6_logo.png</loc>
+    <lastmod>2021-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://FC6Countdown.ml/images/714e6050bfd839df4ec7fcdf5db55302.png</loc>
-    <lastmod>2021-08-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://FC6Countdown.ml/images/tetra_header_mobile_cg.png</loc>
-    <lastmod>2021-08-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://FC6Countdown.ml/images/tetra_header_mobile_cg655x655.png</loc>
     <lastmod>2021-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -38,13 +32,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://FC6Countdown.ml/images/tetra_header_mobile_cg380x380.png</loc>
+    <loc>http://FC6Countdown.ml/images/tetra_header_mobile_cg501x501.png</loc>
     <lastmod>2021-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://FC6Countdown.ml/images/tetra_header_mobile_cg320x320.png</loc>
+    <loc>http://FC6Countdown.ml/images/tetra_header_mobile_cg380x380.png</loc>
     <lastmod>2021-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -56,7 +50,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://FC6Countdown.ml/images/tetra_header_mobile_cg536x536.png</loc>
+    <loc>http://FC6Countdown.ml/images/tetra_header_mobile_cg.png</loc>
     <lastmod>2021-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
