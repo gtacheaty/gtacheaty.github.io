@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="FC6Countdown.ml" resolutions="1x" timestamp="1630146453004">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="FC6Countdown.ml" resolutions="1x" timestamp="1630146767664">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="3897314130" ref="index"/>
@@ -23,8 +23,8 @@
     <file name="tetra_header_mobile_cg.png" crc="3842301119" seo="true" ref="phone>index"/>
     <file name="fc6_logo-crop-u4722.png" crc="520060236" ref="phone>index"/>
     <file name="tetra_header_mobile_cg536x536.png" crc="4274236688" seo="true" ref="phone>index"/>
-    <file name="tetra_header_mobile_cg380x380.png" crc="3898710651" seo="true" ref="phone>index"/>
     <file name="fc6_logo-crop-u4723.png" crc="370297789" ref="phone>index"/>
+    <file name="tetra_header_mobile_cg380x380.png" crc="3898710651" seo="true" ref="phone>index"/>
     <file name="fc6_logo-crop-u4724.png" crc="143311654" ref="phone>index"/>
     <file name="tetra_header_mobile_cg320x320.png" crc="534512604" seo="true" ref="phone>index"/>
     <file name="fc6_logo-crop-u4725.png" crc="3987077853" ref="phone>index"/>
@@ -39,10 +39,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4132536387" ref="phone>index"/>
+      <file name="index.css" crc="4043007768" ref="phone>index"/>
       <file name="nomq_index.css" crc="4042514412" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="234240674" seo="true" mt="1630146441035" redirect="true"/>
+    <file name="index.html" crc="293456212" seo="true" mt="1630146733893" redirect="true"/>
   </folder>
   <file name="index.html" crc="3785506050" seo="true" mt="1630146047384" redirect="true"/>
 </manifest>
