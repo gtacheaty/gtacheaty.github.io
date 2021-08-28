@@ -1,33 +1,26 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="FC6Countdown.ml" resolutions="1x" timestamp="1630088061355">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="FC6Countdown.ml" resolutions="1x" timestamp="1630145327769">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4069657047" ref="index"/>
+    <file name="nomq_index.css" crc="4039601729" ref="index"/>
+  </folder>
   <folder name="assets">
     <file name="fc6_danimale_gameplaypng-(1).webp" crc="157561670" seo="true" mt="1630084785000"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="4132536387" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4042514412" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="234240674" seo="true" mt="1630088021301" redirect="true"/>
-  </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="203045668" ref="index"/>
-    <file name="nomq_index.css" crc="885209" ref="index"/>
-  </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
-    <file name="museutils.js" crc="163421577" ref="index:phone>index"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
-    <file name="museconfig.js" crc="168988563" ref="index:phone>index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:phone>index"/>
-    <file name="require.js" crc="244322403" ref="index:phone>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="168988563" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:index"/>
     <file name="jquery.museresponsive.js" crc="4146931122" ref="phone>index:index"/>
+    <file name="require.js" crc="244322403" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="f65759219b7b97a4c8bdd3803eff941b.png" crc="3989519815" seo="true" ref="index:phone>index"/>
-    <file name="714e6050bfd839df4ec7fcdf5db55302.png" crc="3900614986" seo="true" ref="index:phone>index"/>
+    <file name="f65759219b7b97a4c8bdd3803eff941b.png" crc="3989519815" seo="true" ref="phone>index:index"/>
     <file name="fc6_logo-crop-u472.png" crc="4117246448" ref="phone>index"/>
     <file name="tetra_header_mobile_cg.png" crc="3842301119" seo="true" ref="phone>index"/>
+    <file name="714e6050bfd839df4ec7fcdf5db55302.png" crc="3900614986" seo="true" ref="phone>index:index"/>
     <file name="fc6_logo-crop-u4722.png" crc="520060236" ref="phone>index"/>
     <file name="tetra_header_mobile_cg536x536.png" crc="4274236688" seo="true" ref="phone>index"/>
     <file name="tetra_header_mobile_cg380x380.png" crc="3898710651" seo="true" ref="phone>index"/>
@@ -38,10 +31,18 @@
     <file name="tetra_header_mobile_cg242x242.png" crc="198051779" seo="true" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
     <file name="tetra-preorder-standard-edition-epic-image-hero-carrousel-3840x2160-3840x2160-430977812-crop-u102.jpg" crc="19384582" ref="index"/>
+    <file name="80940eb08e5d28b54575ae04ec85fea3.png" crc="134073524" seo="true" ref="index"/>
     <file name="tetra-preorder-standard-edition-epic-image-hero-carrousel-3840x2160-3840x2160-430977812-crop-u1022.jpg" crc="432270707" ref="index"/>
     <file name="tetra-preorder-standard-edition-epic-image-hero-carrousel-3840x2160-3840x2160-430977812-crop-u1023.jpg" crc="4182773828" ref="index"/>
     <file name="tetra-preorder-standard-edition-epic-image-hero-carrousel-3840x2160-3840x2160-430977812-crop-u1024.jpg" crc="3914114659" ref="index"/>
     <file name="tetra-preorder-standard-edition-epic-image-hero-carrousel-3840x2160-3840x2160-430977812-crop-u1025.jpg" crc="376978281" ref="index"/>
   </folder>
-  <file name="index.html" crc="4181475545" seo="true" mt="1630087937231" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="97131032" ref="phone>index"/>
+      <file name="nomq_index.css" crc="62464527" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3965592263" seo="true" mt="1630145266111" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3986634705" seo="true" mt="1630145302071" redirect="true"/>
 </manifest>
